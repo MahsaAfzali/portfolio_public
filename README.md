@@ -70,6 +70,6 @@ pip install -r requirements.txt
 ## Contact
 Feel free to reach out if you have questions about my work or would like to collaborate!
 
-- **LinkedIn:** [LinkedIn Profile]([link-to-profile](https://www.linkedin.com/in/mahsa-afzali-4709b6101/))
+- **LinkedIn Profile:** ([Mahsa Afzali](https://www.linkedin.com/in/mahsa-afzali-4709b6101/))
 
 Thank you for visiting my portfolio!
