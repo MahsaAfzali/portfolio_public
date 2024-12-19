@@ -36,7 +36,7 @@ I hold a Bachelor's degree in Biomedical Engineering and a Master's degree in So
 
 ### Supervised Learning
 
-#### Project 1: Classification **[Online Shoppers Purchasing Intention]([link-to-project](https://github.com/MahsaAfzali/portfolio_public/tree/main/machine_learning/supervised_learning))**
+#### Project 1: Classification **[Online Shoppers Purchasing Intention](https://github.com/MahsaAfzali/portfolio_public/tree/main/machine_learning/supervised_learning)**
 **Summary:**
 The aim of this project is to predict whether or not a website visitor will purchase a product from an online shop. This project consists of data interpretation and visualization, normalization, multiple machine learning models train and evaluation.
 
@@ -70,6 +70,6 @@ pip install -r requirements.txt
 ## Contact
 Feel free to reach out if you have questions about my work or would like to collaborate!
 
-- **LinkedIn Profile:** ([Mahsa Afzali](https://www.linkedin.com/in/mahsa-afzali-4709b6101/))
+- **LinkedIn Profile:** [Mahsa Afzali](https://www.linkedin.com/in/mahsa-afzali-4709b6101/)
 
 Thank you for visiting my portfolio!
