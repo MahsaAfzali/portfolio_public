@@ -6,3 +6,5 @@ xgboost
 matplotlib
 seaborn
 scipy
+kaleido
+nbformat
