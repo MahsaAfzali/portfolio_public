@@ -1,7 +1,14 @@
 *.zip
 *.Ds_Store
 *.csv
+venv
+*.zip
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
 *.pyc
+Lung Segmentation
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

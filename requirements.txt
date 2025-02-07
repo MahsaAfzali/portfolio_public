@@ -8,3 +8,5 @@ seaborn
 scipy
 kaleido
 nbformat
+opencv-python
+tensorflow
