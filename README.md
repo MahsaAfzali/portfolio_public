@@ -10,9 +10,10 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of m
   - [Projects](#projects)
     - [Supervised Learning](#supervised-learning)
       - [Project 1: Classification **Online Shoppers Purchasing Intention**](#project-1-classification-online-shoppers-purchasing-intention)
-    - [Unsupervised Learning](#unsupervised-learning)
-      - [Project 2: TODO](#project-2-todo)
     - [Deep Learning](#deep-learning)
+      - [Project 2: Image Segmentation **Lung X-Ray Segmentation**](#project-2-image-segmentation-lung-x-ray-segmentation)
+  - [**Key Skills:** Tensorflow (Image processing, Computer vision)](#key-skills-tensorflow-image-processing-computer-vision)
+    - [Unsupervised Learning](#unsupervised-learning)
       - [Project 3: TODO](#project-3-todo)
   - [How to Use This Repository](#how-to-use-this-repository)
     - [Prerequisites](#prerequisites)
@@ -44,16 +45,16 @@ The aim of this project is to predict whether or not a website visitor will purc
 
 ---
 
-### Unsupervised Learning
-
-#### Project 2: TODO
----
-
 ### Deep Learning
 
-#### Project 3: TODO
+#### Project 2: Image Segmentation **[Lung X-Ray Segmentation](https://github.com/MahsaAfzali/portfolio_public/tree/main/machine_learning/deep_learning)**
 
+**Key Skills:** Tensorflow (Image processing, Computer vision)
 ---
+
+### Unsupervised Learning
+
+#### Project 3: TODO
 
 ## How to Use This Repository
 Each project folder contains:
